@@ -1,4 +1,4 @@
-# Zadania-1-6
-Zadania od 1 do 6 
+# Zadania-1-12
+Zadania od 1 do 12
 <br>
 Plik przyklad1 jest plikiem głównym
